@@ -1,0 +1,3 @@
+Python é uma linguagem versátil.
+Este arquivo foi criado pelo script.
+Estamos aprendendo leitura e escrita de arquivos.
